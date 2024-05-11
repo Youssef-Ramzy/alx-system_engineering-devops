@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # -l: only services which are listening
 # -n: show numerical addresses
 # -t: TCP ports
