@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+# -l: only services which are listening
+# -n: show numerical addresses
+# -t: TCP ports
+# -u: UDP ports
+# -p: show the PID and name of the program to which each socket belongs
+netstat -lntup
